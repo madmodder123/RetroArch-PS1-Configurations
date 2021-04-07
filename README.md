@@ -10,6 +10,8 @@ Some games also require hacks to function correctly, these have also been includ
 
 Just make sure your ROMs have the same name otherwise the configs won't load!
 
+Most of the titles are the NTSC-U (North American) releases, although there are some PAL (Europe) and NTSC-J (Japan) games included.
+
 For RetroPie place the config files (.opt .cfg) inside the PS1_Configs folder in your "\opt\retropie\configs\all\retroarch\config\PCSX-ReARMed\" folder.
 For other systems You will have to find where your config files are saved for retroarch.
 
