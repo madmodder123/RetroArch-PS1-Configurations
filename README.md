@@ -9,3 +9,6 @@ Some games that support the multi-tap will not function correctly when the Retro
 Some games also require hacks to function correctly, these have also been included.
 
 Just make sure your ROMs have the same name otherwise the configs won't load!
+
+For RetroPie place the config files (.opt .cfg) inside the PS1_Configs folder in your "\opt\retropie\configs\all\retroarch\config\PCSX-ReARMed\" folder.
+For other systems You will have to find where your config files are saved for retroarch.
